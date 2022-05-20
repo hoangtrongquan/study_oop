@@ -4,3 +4,7 @@
 
 
 ![design oop](design_oop.png)
+
+
+## state
+![state](state.png)
