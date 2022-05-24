@@ -1,11 +1,9 @@
 package state;
 
 public class Pho extends Product implements Spice,Vegetable{
-    String type;
 
-    public Pho(String name, double money, int amount, String type) {
+    public Pho(String name, double money, int amount) {
         super(name, money, amount);
-        this.type = type;
     }
 
     @Override
